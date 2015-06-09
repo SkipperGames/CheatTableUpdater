@@ -1,0 +1,8 @@
+c:\Users\Easy\Documents\Visual Studio 2010\Projects\CheatTableUpdater\CheatTableUpdater\bin\Debug\CheatTableUpdater.exe
+c:\Users\Easy\Documents\Visual Studio 2010\Projects\CheatTableUpdater\CheatTableUpdater\bin\Debug\CheatTableUpdater.pdb
+c:\Users\Easy\Documents\Visual Studio 2010\Projects\CheatTableUpdater\CheatTableUpdater\obj\x86\Debug\CheatTableUpdater.Form1.resources
+c:\Users\Easy\Documents\Visual Studio 2010\Projects\CheatTableUpdater\CheatTableUpdater\obj\x86\Debug\CheatTableUpdater.Properties.Resources.resources
+c:\Users\Easy\Documents\Visual Studio 2010\Projects\CheatTableUpdater\CheatTableUpdater\obj\x86\Debug\CheatTableUpdater.csproj.GenerateResource.Cache
+c:\Users\Easy\Documents\Visual Studio 2010\Projects\CheatTableUpdater\CheatTableUpdater\obj\x86\Debug\CheatTableUpdater.exe
+c:\Users\Easy\Documents\Visual Studio 2010\Projects\CheatTableUpdater\CheatTableUpdater\obj\x86\Debug\CheatTableUpdater.pdb
+C:\Users\Easy\Documents\Visual Studio 2010\Projects\CheatTableUpdater\CheatTableUpdater\obj\x86\Debug\CheatTableUpdater.csprojResolveAssemblyReference.cache
